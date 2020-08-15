@@ -1,8 +1,14 @@
-### Hi there 👋
+# Hi, I'm Fabrício!
 
+I'ma a beginner software developer, but I'm glad to be part of this incredible world that is the IT. But I never give up, always trying to find new ideas to put on code.
+
+## Latest realeases:
+
+ 
+
+- My TCC project named as MiauDote
 <!--
 **fabriciodossantos908/fabriciodossantos908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
