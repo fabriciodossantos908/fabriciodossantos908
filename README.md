@@ -14,7 +14,7 @@ actually learning **React.js**, **React Native** and **Node.js.**
 
 - Posting good stuff and some snnipets at my instagram fabrciio
 
-- My TCC project named as [MiauDote](https://github.com/fabriciodossantos908/miauDote) 🐶
+- My Conclusion course project named as [MiauDote](https://github.com/fabriciodossantos908/miauDote) 🐶
 <!--
 **fabriciodossantos908/fabriciodossantos908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
