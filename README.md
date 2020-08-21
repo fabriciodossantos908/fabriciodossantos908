@@ -9,7 +9,7 @@ I'ma a beginner software developer, but I'm glad to be part of this incredib
 
 ## You can also find me on:
 
-- Instagram [fabricio_dev](https://www.instagram.com/fabricio_dev/), always trying to create good content and snippets
+- Instagram [fabricio_dev](https://www.instagram.com/fabricio_dev/), always trying to create good content and snnipets
 
 ## Latest realeases:
 
