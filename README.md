@@ -4,8 +4,10 @@ I'ma a beginner software developer, but I'm glad to be part of this incredib
 
 ## What I'm Learning?
 
-- With **React js** i'm learning how to do credit card payment inside a form using **Formik** to make simple our form and **Yup** for validation;
-- Creating a incredible Pokedex named **Pokeapp** with React Native
+- Actually Learning good tips and tricks with CSS;
+- Improving my skills with Ionic 5, PHP and typescript;
+- Sometimes trying something new, like Flutter
+
 
 ## You can also find me on:
 
@@ -14,6 +16,11 @@ I'ma a beginner software developer, but I'm glad to be part of this incredib
 ## Latest realeases:
 
 - My conclusion course project named as [MiauDote](https://github.com/fabriciodossantos908/miauDote) 🐶
+
+- Developing something good at [flutter-adventures](https://github.com/fabriciodossantos908/flutter-adventures.git)
+
+<!-- - Creating stylish effects like glassmorphism at this repo. [Stylish-library](https://github.com/fabriciodossantos908/stylish-library)  -->
+
 <!--
 **fabriciodossantos908/fabriciodossantos908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
