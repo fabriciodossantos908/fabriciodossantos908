@@ -17,7 +17,7 @@ I'ma a beginner software developer, but I'm glad to be part of this incredib
 
 - My conclusion course project named as [MiauDote](https://github.com/fabriciodossantos908/miauDote) 🐶
 
-- Developing something good at [flutter-adventures](https://github.com/fabriciodossantos908/flutter-adventures.git)
+- Studying angular components [Angular-challenges](https://github.com/fabriciodossantos908/Ionic-7-challenge.git)
 
 <!-- - Creating stylish effects like glassmorphism at this repo. [Stylish-library](https://github.com/fabriciodossantos908/stylish-library)  -->
 
