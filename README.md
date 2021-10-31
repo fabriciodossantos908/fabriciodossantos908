@@ -1,3 +1,5 @@
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/fabriciodossantos908)
+
 # Hey, I'm Fabrício! 🤙
 
 I'ma a beginner software developer, but I'm glad to be part of this incredible world that is the IT. But I never give up, always looking for ideas to make softwares with passion.
@@ -24,6 +26,11 @@ I'ma a beginner software developer, but I'm glad to be part of this incredib
 <!--
 **fabriciodossantos908/fabriciodossantos908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
+## My Github stats:
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabriciodossantos908&show_icons=true&theme=gotham" alt="Fabrício dos santos stats" />
+
 
 ...
 - 🌱 I’m currently learning ...
